@@ -65,7 +65,7 @@
 
 
 
-<!-- 
+
   -- Technology list 
   PICK FROM THESE TO HIGHLIGHT THE TECHNOLOGIES YOU'VE WORKED WITH:
   --
