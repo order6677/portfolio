@@ -55,18 +55,7 @@
 <h1>My experience</h1>
 
 
-
-
-
-<
-
-
-
-
-
-
-
-  -- Technology list 
+   Technology list 
   PICK FROM THESE TO HIGHLIGHT THE TECHNOLOGIES YOU'VE WORKED WITH:
   
 
