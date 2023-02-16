@@ -112,3 +112,12 @@
 --
 -- RUBY
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=order6677&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
